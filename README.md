@@ -40,7 +40,6 @@ Mi objetivo es crear productos digitales donde la estética y la funcionalidad c
 ---
 
 # 📊 Estadísticas de GitHub
-## 📊 Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miyuki1023&theme=tokyonight-duo&hide_border=true&locale=es" />
