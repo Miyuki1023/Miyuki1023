@@ -24,9 +24,9 @@ Combino pensamiento analítico y creatividad para transformar problemas complejo
 
 
 <details align="center">
-  <summary>
+  
     <img src="https://img.shields.io/badge/🚀%20Ver%20experiencia%20completa-F49CBB?style=for-the-badge&logoColor=white" />
-  </summary>
+
 
 
   <!-- Aquí empieza la segunda parte de tu contenido -->
