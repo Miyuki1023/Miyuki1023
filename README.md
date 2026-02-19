@@ -9,7 +9,7 @@
 <p align="center">
   🎨 Diseño centrado en el usuario · 💻 Interfaces funcionales · ✨ Experiencias intuitivas
 </p>
-
+<br>
 ---
 
 # 🌿 Sobre mí
@@ -96,11 +96,7 @@ Cada interfaz es una conversación entre el usuario y el producto.
 </p>
 
 ---
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0026,100:F49CBB&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0026,100:F49CBB&height=140&section=footer&text=✨%20Abierta%20a%20oportunidades%20remotas%20y%20proyectos%20desafiantes%20✨&fontSize=18&fontColor=ffffff&animation=fadeIn&fontAlignY=70" />
 </p>
 
-<p align="center">
-✨ Abierta a oportunidades remotas y proyectos desafiantes ✨
-</p>
