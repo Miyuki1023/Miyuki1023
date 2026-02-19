@@ -24,28 +24,24 @@ Me considero una persona comprometida, creativa y adaptable. Disfruto transforma
 ## 🎨 Stack Tecnológico
 
 ### 💻 Frontend
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
 </p>
 
 ### ⚙ Backend
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### 🗄 Bases de Datos
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ### 🎨 Diseño
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=figma,ai" />
 </p>
-
----
-
-## 📊 GitHub Stats
 
 ---
 
@@ -71,16 +67,16 @@ Me considero una persona comprometida, creativa y adaptable. Disfruto transforma
 ---
 
 ## 📫 Contacto
-
+<p align="center">
 📍 Lima, Perú  
-📧 miyukikahori@gmail.com  
-
+📧 miyuki.frontend.dev@gmail.com  
+</p>
 ---
 
 ## 🎯 Objetivo Profesional
-
+<p align="center">
 Desarrollarme en el área de Diseño y Desarrollo Web, creando productos digitales centrados en el usuario que combinen estética, funcionalidad y escalabilidad.
-
+</p>
 ---
 
 <p align="center">
