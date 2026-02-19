@@ -40,17 +40,10 @@ Mi objetivo es crear productos digitales donde la estética y la funcionalidad c
 ---
 
 # 📊 Estadísticas de GitHub
+## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miyuki1023&theme=tokyonight-duo&hide_border=true&locale=es&ring=F49CBB&fire=F49CBB&currStreakLabel=F49CBB" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Miyuki1023&show_icons=true&hide_border=true&title_color=F49CBB&icon_color=F49CBB&text_color=ffffff&bg_color=0,4B0026,1a0010" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miyuki1023&layout=compact&hide_border=true&title_color=F49CBB&text_color=ffffff&bg_color=0,4B0026,1a0010" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miyuki1023&theme=tokyonight-duo&hide_border=true&locale=es" />
 </p>
 
 <p align="center">
@@ -58,7 +51,12 @@ Mi objetivo es crear productos digitales donde la estética y la funcionalidad c
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Miyuki1023&theme=algolia&no-frame=true&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Miyuki1023&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Miyuki1023&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Miyuki1023&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 ---
