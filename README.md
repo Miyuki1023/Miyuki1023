@@ -56,9 +56,6 @@ Mi objetivo es crear productos digitales donde la estética y la funcionalidad c
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Miyuki1023&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Miyuki1023&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
 
 ---
 
@@ -99,6 +96,6 @@ Cada interfaz es una conversación entre el usuario y el producto.
 
 ---
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0026,100:F49CBB&height=140&section=footer&text=✨%20Abierta%20a%20oportunidades%20remotas%20y%20proyectos%20desafiantes%20✨&fontSize=18&fontColor=ffffff&animation=fadeIn&fontAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0026,100:F49CBB&height=140&section=footer&text=%20Abierta%20a%20oportunidades%20remotas%20y%20proyectos%20desafiantes%20&fontSize=18&fontColor=ffffff&animation=fadeIn&fontAlignY=70" />
 </p>
 
