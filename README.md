@@ -22,7 +22,7 @@ Combino pensamiento analítico y creatividad para transformar problemas complejo
 
 ---
 
-<details>
+
 <summary align="center">
 
 <img src="https://img.shields.io/badge/✨%20Ver%20perfil%20completo-F49CBB?style=for-the-badge&logoColor=white" />
@@ -31,9 +31,7 @@ Combino pensamiento analítico y creatividad para transformar problemas complejo
 
 <br>
 
-<!-- Aquí va todo el contenido expandible -->
 
-</details>
 
 
 # 🚀 Stack Tecnológico
