@@ -19,24 +19,28 @@ Me apasiona diseñar experiencias centradas en el usuario que equilibren estéti
 
 ---
 
-## 🛠 Stack Tecnológico
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,mongodb,mysql,figma,ai" />
-</p>
-
----
 
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Miyuki1023&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miyuki1023&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miyuki1023&theme=tokyonight-duo&hide_border=true&locale=es" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miyuki1023&theme=tokyonight-duo&hide_border=true&locale=es" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Miyuki1023&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Miyuki1023&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Miyuki1023&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Miyuki1023&theme=tokyonight&no-frame=true&margin-w=10" />
+</p>
+
+
 
 ---
 
