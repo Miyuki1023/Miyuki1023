@@ -22,14 +22,19 @@ Combino pensamiento analítico y creatividad para transformar problemas complejo
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/✨%20Ver%20más%20información-F49CBB?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
 <details>
-<summary align="center"><b>Haz clic para expandir mi perfil completo</b></summary>
+<summary align="center">
+
+<img src="https://img.shields.io/badge/✨%20Ver%20perfil%20completo-F49CBB?style=for-the-badge&logoColor=white" />
+
+</summary>
 
 <br>
+
+<!-- Aquí va todo el contenido expandible -->
+
+</details>
+
 
 # 🚀 Stack Tecnológico
 
