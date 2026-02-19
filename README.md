@@ -1,84 +1,55 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4B0082&height=200&section=header&text=Miyuki%20Kahori&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4B0082&height=180&section=header&text=Miyuki%20Kahori&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h2 align="center">✨ Diseñadora UI/UX | Frontend Developer ✨</h2>
+<h2 align="center">Diseñadora UI/UX | Frontend Developer</h2>
 
 <p align="center">
-Apasionada por crear experiencias digitales intuitivas, funcionales y visualmente atractivas.
+🎨 Diseño centrado en el usuario · 💻 Interfaces funcionales · ✨ Experiencias intuitivas
 </p>
 
 ---
 
-## 🌷 Sobre mí
+## 🌿 Sobre mí
 
-💜 Estudiante de Ingeniería de Software  
-🎨 Especial interés en Diseño UX/UI  
-💻 Desarrollo Frontend con enfoque en experiencia de usuario  
-🚀 En constante crecimiento profesional  
+Soy estudiante de Ingeniería de Software con enfoque en **UX/UI y desarrollo frontend**.  
+Combino pensamiento analítico y creatividad para transformar problemas complejos en soluciones digitales claras, modernas y funcionales.
 
-Me considero una persona comprometida, creativa y adaptable. Disfruto transformar ideas en interfaces claras, modernas y centradas en el usuario.
+Me apasiona diseñar experiencias centradas en el usuario que equilibren estética, usabilidad y rendimiento.
 
 ---
 
-## 🎨 Stack Tecnológico
+## 🛠 Stack Tecnológico
 
-### 💻 Frontend
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
-</p>
-
-### ⚙ Backend
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄 Bases de Datos
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### 🎨 Diseño
-<p align="center">
-<img src="https://skillicons.dev/icons?i=figma,ai" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,mongodb,mysql,figma,ai" />
 </p>
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Miyuki1023&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miyuki1023&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miyuki1023&theme=tokyonight-duo&hide_border=true&locale=es" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Miyuki1023&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Miyuki1023&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Miyuki1023&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Miyuki1023&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
-
 ---
 
 ## 📫 Contacto
+
 <p align="center">
 📍 Lima, Perú  
 📧 miyuki.frontend.dev@gmail.com  
 </p>
----
 
-## 🎯 Objetivo Profesional
-<p align="center">
-Desarrollarme en el área de Diseño y Desarrollo Web, creando productos digitales centrados en el usuario que combinen estética, funcionalidad y escalabilidad.
-</p>
 ---
 
 <p align="center">
-✨ Abierta a oportunidades remotas y colaboraciones internacionales ✨
+✨ Abierta a oportunidades remotas y colaboraciones internacionales
 </p>
+
