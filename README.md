@@ -23,13 +23,17 @@ Combino pensamiento analítico y creatividad para transformar problemas complejo
 ---
 
 
-<summary align="center">
+<details align="center">
+  <summary>
+    <img src="https://img.shields.io/badge/🚀%20Ver%20experiencia%20completa-F49CBB?style=for-the-badge&logoColor=white" />
+  </summary>
 
-<img src="https://img.shields.io/badge/✨%20Ver%20perfil%20completo-F49CBB?style=for-the-badge&logoColor=white" />
+  <br>
 
-</summary>
+  <!-- Aquí empieza la segunda parte de tu contenido -->
 
-<br>
+
+</details>
 
 
 
