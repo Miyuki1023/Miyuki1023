@@ -52,11 +52,6 @@ Me considero una persona comprometida, creativa y adaptable. Disfruto transforma
 ## 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Miyuki1023&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miyuki1023&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miyuki1023&theme=tokyonight-duo&hide_border=true&locale=es" />
 </p>
 
