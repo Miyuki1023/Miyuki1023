@@ -1,15 +1,17 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F49CBB,100:4B0026&height=230&section=header&text=Miyuki%20Kahori&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=UX/UI%20Designer%20🎨%20|%20Frontend%20Developer%20💻&descAlignY=65&descAlign=50" />
 </p>
+<br>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=500&size=22&pause=1000&color=F49CBB&center=true&vCenter=true&width=600&lines=Dise%C3%B1o+centrado+en+el+usuario;Interfaces+modernas+y+funcionales;Experiencias+digitales+inteligentes;Elegancia+%2B+Tecnolog%C3%ADa+%2B+Usabilidad" />
 </p>
 
+
 <p align="center">
   🎨 Diseño centrado en el usuario · 💻 Interfaces funcionales · ✨ Experiencias intuitivas
 </p>
-<br>
+
 ---
 
 # 🌿 Sobre mí
