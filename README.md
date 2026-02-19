@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3A0CA3&height=200&section=header&text=Miyuki%20Kahori&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Diseñadora%20UI/UX%20|%20Frontend%20Developer&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8338EC,100:3A0CA3&height=180&section=header&text=Miyuki%20Kahori&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=UX/UI%20Designer%20%F0%9F%8E%A8%20|%20Frontend%20Developer%20%F0%9F%92%BB&descAlignY=65&descAlign=50" />
 </p>
+
 
 
 <h2 align="center">Diseñadora UI/UX | Frontend Developer</h2>
