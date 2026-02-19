@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,100:5A189A&height=210&section=header&text=Miyuki%20Kahori&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Creando%20experiencias%20digitales%20centradas%20en%20el%20usuario&descAlignY=60&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F49CBB,100:4B0026&height=200&section=header&text=Miyuki%20Kahori&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=UX/UI%20Designer%20🎨%20|%20Frontend%20Developer%20💻&descAlignY=65&descAlign=50" />
 </p>
 
 
