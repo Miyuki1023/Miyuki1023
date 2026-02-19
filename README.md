@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F49CBB,100:4B0026&height=200&section=header&text=Miyuki%20Kahori&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=UX/UI%20Designer%20🎨%20|%20Frontend%20Developer%20💻&descAlignY=65&descAlign=50" />
 </p>
 
-
-
-<h2 align="center">Diseñadora UI/UX | Frontend Developer</h2>
-
 <p align="center">
 🎨 Diseño centrado en el usuario · 💻 Interfaces funcionales · ✨ Experiencias intuitivas
 </p>
