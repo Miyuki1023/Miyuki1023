@@ -1,82 +1,76 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4B0082&height=200&section=header&text=Miyuki%20Kahori&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-<h1 align="center">¡Hola 👋! Soy Miyuki Kahori</h1>
-<h3 align="center">Estudiante de Ingeniería de Software | Diseñadora UI/UX | Frontend Developer</h3>
+<h2 align="center">✨ Diseñadora UI/UX | Frontend Developer ✨</h2>
+
+<p align="center">
+Apasionada por crear experiencias digitales intuitivas, funcionales y visualmente atractivas.
+</p>
 
 ---
 
-## 💫 Sobre mí
+## 🌷 Sobre mí
 
-🎓 Estudiante de Ingeniería de Software en la Universidad Tecnológica del Perú  
-🎨 Apasionada por el Diseño UX/UI y el Desarrollo Web  
-💡 Disfruto transformar ideas en experiencias digitales intuitivas y significativas  
-🚀 En constante aprendizaje y crecimiento profesional  
+💜 Estudiante de Ingeniería de Software  
+🎨 Especial interés en Diseño UX/UI  
+💻 Desarrollo Frontend con enfoque en experiencia de usuario  
+🚀 En constante crecimiento profesional  
 
-Me considero una persona comprometida, responsable y con facilidad para adaptarme a nuevos entornos. Disfruto asumir retos, trabajar en equipo y aportar soluciones creativas enfocadas en la experiencia del usuario.
+Me considero una persona comprometida, creativa y adaptable. Disfruto transformar ideas en interfaces claras, modernas y centradas en el usuario.
+
+---
+
+## 🎨 Stack Tecnológico
+
+### 💻 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+</p>
+
+### ⚙ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄 Bases de Datos
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🎨 Diseño
+<p>
+<img src="https://skillicons.dev/icons?i=figma,ai" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Miyuki1023&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miyuki1023&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miyuki1023&theme=tokyonight-duo&hide_border=true&locale=es" />
+</p>
 
 ---
 
 ## 📫 Contacto
 
-📍 El Agustino, Lima – Perú  
+📍 Lima, Perú  
 📧 miyukikahori@gmail.com  
-📱 +51 936693905  
-
----
-
-## 🛠 Tecnologías y Herramientas
-
-### 💻 Frontend
-- HTML
-- CSS
-- JavaScript
-- React.js
-- Tailwind CSS
-- Bootstrap
-- MUI (Material UI)
-
-### ⚙ Backend
-- Node.js
-- Express.js
-
-### 🗄 Bases de Datos
-- MongoDB
-- MySQL
-
-### 🔐 APIs y Autenticación
-- RESTful APIs
-- Axios
-- Fetch API
-- JSON Web Tokens (JWT)
-
-### 🎨 Diseño
-- Figma (Prototipado UX/UI)
-- Adobe Illustrator
-
-### 📊 Otros conocimientos
-- C++ (básico)
-- Python (básico)
-- Excel (intermedio)
-- Power BI
-
----
-
-## 📈 Estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Miyuki1023&show_icons=true&theme=tokyonight)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Miyuki1023&theme=tokyonight-duo&hide_border=true&locale=es)](https://git.io/streak-stats)
-
-![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Miyuki1023&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🎯 Objetivo Profesional
 
-Desarrollarme profesionalmente en el área de Diseño y Desarrollo Web, aportando mis conocimientos en UX/UI, frontend y backend, participando activamente en proyectos que mejoren la experiencia del usuario.  
-
-Busco integrarme a un equipo dinámico donde pueda aplicar lo aprendido, asumir nuevos desafíos y seguir creciendo tanto a nivel técnico como personal.
+Desarrollarme en el área de Diseño y Desarrollo Web, creando productos digitales centrados en el usuario que combinen estética, funcionalidad y escalabilidad.
 
 ---
 
-⭐ Abierta a oportunidades remotas y proyectos colaborativos.
+<p align="center">
+✨ Abierta a oportunidades remotas y colaboraciones internacionales ✨
+</p>
